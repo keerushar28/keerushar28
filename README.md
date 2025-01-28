@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiran Gautam</h1>
 <h3 align="center">A passionate Backend developer from Nepal.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keerushar28&label=Profile%20views&color=0e75b6&style=flat" alt="keerushar28" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/kiran_gtm28" target="blank"><img src="https://img.shields.io/twitter/follow/kiran_gtm28?logo=twitter&style=for-the-badge" alt="kiran_gtm28" /></a> </p>
 
